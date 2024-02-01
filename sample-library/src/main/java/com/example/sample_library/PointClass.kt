@@ -1,13 +1,13 @@
 package com.example.sample_library
 
-class PerformAction {
+class PointClass {
 
-    public fun mainFunction(value: String){
+
+    public fun myMethod(value:String){
 
 
         println("I am In Sample Library Performance Class >>>>"+value)
 
     }
-
 
 }
