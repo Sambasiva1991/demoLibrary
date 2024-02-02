@@ -9,5 +9,12 @@ class PerformAction {
 
     }
 
+    public fun UpdateFunction(value: String){
+
+
+        println("UpdateFunction In Sample Library PerformAction >>>>"+value)
+
+    }
+
 
 }
