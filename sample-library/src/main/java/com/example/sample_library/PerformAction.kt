@@ -9,7 +9,7 @@ class PerformAction {
 
     }
 
-    public fun UpdateFunction(value: String){
+    public fun updateFunction(value: String){
 
 
         println("UpdateFunction In Sample Library PerformAction >>>>"+value)
